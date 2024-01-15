@@ -56,9 +56,8 @@ tenacity==8.2.3
 thop==0.1.1.post2209072238
 toml==0.10.2
 toolz==0.12.0
-torch==2.3.0.dev20240110+cpu
-torchaudio==2.2.0.dev20240110+cpu
-torchvision==0.18.0.dev20240110+cpu
+torch==2.0.1
+torchvision==0.15.2
 tornado==6.4
 tqdm==4.66.1
 typing_extensions==4.8.0
