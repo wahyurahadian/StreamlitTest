@@ -1,0 +1,6 @@
+streamlit==1.30.0
+torch==2.3.0.dev20240110+cpu
+torchaudio==2.2.0.dev20240110+cpu
+torchvision==0.18.0.dev20240110+cpu
+ultralytics==8.1.1
+
